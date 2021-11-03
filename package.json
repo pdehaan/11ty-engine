@@ -1,0 +1,25 @@
+{
+  "name": "11ty-engine",
+  "description": "",
+  "version": "1.0.0",
+  "author": "Peter deHaan",
+  "bugs": {
+    "url": "https://github.com/pdehaan/11ty-engine/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  },
+  "homepage": "https://github.com/pdehaan/11ty-engine#readme",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "main": ".eleventy.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdehaan/11ty-engine.git"
+  },
+  "scripts": {
+    "build": "eleventy",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
